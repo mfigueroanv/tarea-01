@@ -39,7 +39,7 @@ El proyecto busca dar respuesta a las siguientes interrogantes técnicas y opera
 *La relevancia de este enfoque radica en la transparencia y la trazabilidad. Al utilizar un SIG, la bitácora se convierte en una **herramienta de auditoría irrefutable**. La posibilidad de realizar consultas espaciales (por ejemplo: *"mostrar todas las anotaciones de bitácora realizadas en el segundo nivel durante el mes de enero"*) ahorra horas de revisión manual de documentos.*
 
 Además, el sistema está diseñado para funcionar en entornos móviles, facilitando que el profesional en el sitio de obra pueda realizar los registros con un dispositivo GPS integrado. Esto asegura que la ubicación registrada sea la real, mitigando el riesgo de reportes de inspección realizados fuera del sitio de trabajo. El impacto final es una construcción más eficiente, segura y alineada con los estándares internacionales de *Project Management*.
----
+
 ![Imagen 1. Proyecto constructivo de Constructora El Ceibo](https://scontent.cdninstagram.com/v/t51.82787-15/649519542_18058711469679662_3676270519595347740_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3nJ0uDJY7q4Q7kNvwGD8bJ5&_nc_oc=AdmkwdrSL0LvDK2OS8jI-Cz1dFjNfnBbGFe8bUZYwsIRDq0fwhyjhHuyJ9Eti-BG8SQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uaNQCL3gaDqYCYD-LJGODw&_nc_ss=8&oh=00_Afy7kJ0T6CUqD1wjjimWDMj7CpJVesnSvDOyOCEjB_K0lA&oe=69BABA4C)
 <p align="center">Imagen 1. Proyecto constructivo Constructora El Ceibo.</p>
 
