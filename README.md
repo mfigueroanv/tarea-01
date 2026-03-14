@@ -50,5 +50,5 @@ Además, el sistema está diseñado para funcionar en entornos móviles, facilit
 * Consejo Federal de Ingeniería y Arquitectura (CFIA). (2019). *Reglamento para la Inspección de Obras de Edificación*. San José, Costa Rica.
 * Olaya, V. (2014). *Sistemas de Información Geográfica*. Autoedición.
 * Project Management Institute. (2017). *A guide to the project management body of knowledge (PMBOK guide)* (6th ed.).
-* [Escuela de Ciencias Geográficas - Universidad Nacional](https://www.una.ac.cr)
+* [Universidad Nacional](https://www.una.ac.cr)
 * [Facebook Constructora El Ceibo](https://www.facebook.com/ConstructoraElCeibo/)
