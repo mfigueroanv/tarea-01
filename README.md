@@ -36,7 +36,7 @@ El proyecto busca dar respuesta a las siguientes interrogantes técnicas y opera
 
 
 ## 5. Justificación y Alcance
-La relevancia de este enfoque radica en la transparencia y la trazabilidad. Al utilizar un SIG, la bitácora se convierte en una **herramienta de auditoría irrefutable**. La posibilidad de realizar consultas espaciales (por ejemplo: *"mostrar todas las anotaciones de bitácora realizadas en el segundo nivel durante el mes de enero"*) ahorra horas de revisión manual de documentos.
+*La relevancia de este enfoque radica en la transparencia y la trazabilidad. Al utilizar un SIG, la bitácora se convierte en una **herramienta de auditoría irrefutable**. La posibilidad de realizar consultas espaciales (por ejemplo: *"mostrar todas las anotaciones de bitácora realizadas en el segundo nivel durante el mes de enero"*) ahorra horas de revisión manual de documentos.*
 
 Además, el sistema está diseñado para funcionar en entornos móviles, facilitando que el profesional en el sitio de obra pueda realizar los registros con un dispositivo GPS integrado. Esto asegura que la ubicación registrada sea la real, mitigando el riesgo de reportes de inspección realizados fuera del sitio de trabajo. El impacto final es una construcción más eficiente, segura y alineada con los estándares internacionales de *Project Management*.
 
